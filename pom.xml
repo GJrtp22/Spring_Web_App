@@ -23,6 +23,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>Spring_Web_app</finalName>
+    <finalName>Spring_Web_app1</finalName>
   </build>
 </project>
